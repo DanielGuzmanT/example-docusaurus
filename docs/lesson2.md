@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: lesson-2
 title: document number 2
 ---
 

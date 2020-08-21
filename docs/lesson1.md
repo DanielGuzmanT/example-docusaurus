@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: lesson-1
 title: Latin-ish
 sidebar_label: Example Page
 ---
