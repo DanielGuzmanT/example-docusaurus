@@ -1,13 +1,13 @@
 {
   "docs": {
-    "Docusaurus": [
-      "doc1",
-      "doc9"
+    "Taller Git": [
+      "lesson-1"
     ],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "First Category": [
+      "lesson-2"
+    ]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "First Category": ["lesson-3"]
   }
 }
